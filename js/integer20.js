@@ -1,0 +1,1 @@
+console.log(Math.abs(2/3 - 1/4));
